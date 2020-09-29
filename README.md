@@ -1,2 +1,5 @@
-# Matplotlib_and_Seaborn_Notebooks
+# Data Visualization Notebook
  
+ ## -Matplotlib Summary
+ 
+ ## -Seaborn Summary
